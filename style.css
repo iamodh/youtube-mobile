@@ -166,6 +166,7 @@ section.info {
 .info .channel .metadata img {
     width: var(--avatar-size);
     height: var(--avatar-size);
+    margin-right: var(--padding);
 }
 
 .info .channel .metadata .info .name {
@@ -218,6 +219,7 @@ section.info {
 
 .upNext .item .moreBtn {
     flex: 1 1 5%;
+    height: 100%;
 }
 
 .upNext .item .info {
